@@ -1,0 +1,7 @@
+C:\Users\willi\Desktop\ProjetoChatBot\Chatbot Simples\Programa\Programa\bin\Debug\Programa.exe.config
+C:\Users\willi\Desktop\ProjetoChatBot\Chatbot Simples\Programa\Programa\bin\Debug\Programa.exe
+C:\Users\willi\Desktop\ProjetoChatBot\Chatbot Simples\Programa\Programa\bin\Debug\Programa.pdb
+C:\Users\willi\Desktop\ProjetoChatBot\Chatbot Simples\Programa\Programa\obj\Debug\Programa.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\ProjetoChatBot\Chatbot Simples\Programa\Programa\obj\Debug\Programa.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\ProjetoChatBot\Chatbot Simples\Programa\Programa\obj\Debug\Programa.exe
+C:\Users\willi\Desktop\ProjetoChatBot\Chatbot Simples\Programa\Programa\obj\Debug\Programa.pdb
